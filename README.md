@@ -1,8 +1,7 @@
 # BootcampDataAnalytics
 
-# Challenge codes of Data Analytics Bootcamp from WoMakersCode
 # Data Analytics Bootcamp Projects
-Welcome to my Bootcamp Projects repository! Here, you'll find a collection of basic projects that I developed during my journey through a Data Analytics bootcamp tailored for women in technology.
+Welcome to my Bootcamp Projects repository! Here, you'll find a collection of basic projects that I developed during my journey through a WoMakersCode bootcamp tailored for women in technology.
 
 # About the Repository
 This repository is a compilation of various projects covering topics such as data wrangling, data manipulation with SQL, applied statistics, data analysis, visualization, and other essential skills in the realm of data science.
